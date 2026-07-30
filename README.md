@@ -4,23 +4,28 @@ Stores solutions of CodeForces.
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/PragatiBuilds/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [1929-concatenation-of-array](https://github.com/PragatiBuilds/Leetcode-Solutions/tree/main/1929-concatenation-of-array/) | Easy |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/PragatiBuilds/Leetcode-Solutions/tree/master/0001-two-sum) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PragatiBuilds/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PragatiBuilds/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PragatiBuilds/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1929-concatenation-of-array](https://github.com/PragatiBuilds/Leetcode-Solutions/tree/main/1929-concatenation-of-array/) | Easy |
 <!---LeetCode Topics End-->
