@@ -14,6 +14,7 @@ Stores solutions of CodeForces.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PragatiBuilds/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/PragatiBuilds/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/PragatiBuilds/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [3668-restore-finishing-order](https://github.com/PragatiBuilds/Leetcode-Solutions/tree/main/3668-restore-finishing-order/) | Easy |
 ## Math
@@ -25,6 +26,7 @@ Stores solutions of CodeForces.
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/PragatiBuilds/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/PragatiBuilds/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PragatiBuilds/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Greedy
@@ -36,4 +38,8 @@ Stores solutions of CodeForces.
 | ------- |
 | [1929-concatenation-of-array](https://github.com/PragatiBuilds/Leetcode-Solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/PragatiBuilds/Leetcode-Solutions/tree/main/3925-concatenate-array-with-reverse/) | Easy |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/PragatiBuilds/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
