@@ -21,6 +21,7 @@ Stores solutions of CodeForces.
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/PragatiBuilds/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/PragatiBuilds/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/PragatiBuilds/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PragatiBuilds/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
